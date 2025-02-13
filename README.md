@@ -1,4 +1,4 @@
-# SQL Portfolio Project
+# SQL Practice Project
 
 This project focuses on analyzing data from the [Data Science Salaries 2023 dataset](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023) using SQL to extract meaningful insights about salaries in the data science field.
 
